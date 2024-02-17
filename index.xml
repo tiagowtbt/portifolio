@@ -148,16 +148,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tiagowtbt.github.io/portifolio/about/</guid>
-      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.This is demo site for Eternity theme. All images are taken from Unsplash.Features Configurable features.
-Multiple images support.
-Clean, fresh, minimalist.
-Integrated lazy load.
-Automatically creates resized thumbnails.
-Shows exif if it exists.
-Installation Install Hugo.
-Create a new site.
-hugo new site yoursite cd yoursite Remove default config file.
-rm hugo.toml If you use an older version of Hugo (&amp;lt; v0.</description>
+      <description></description>
     </item>
     
   </channel>
