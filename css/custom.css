@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Pixo';
+    src: url('Pixo1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.welcome-title {
+font-family: "Pixo";
+}
+
+.menu {
+    text-align: center;
+}
