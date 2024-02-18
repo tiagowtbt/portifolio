@@ -27,15 +27,6 @@
     
     <item>
       <title></title>
-      <link>https://tiagowtbt.github.io/portifolio/bh_1/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tiagowtbt.github.io/portifolio/bh_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://tiagowtbt.github.io/portifolio/adesivo_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -54,28 +45,28 @@
     
     <item>
       <title></title>
-      <link>https://tiagowtbt.github.io/portifolio/adesivo_5/</link>
+      <link>https://tiagowtbt.github.io/portifolio/analogica_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tiagowtbt.github.io/portifolio/adesivo_5/</guid>
+      <guid>https://tiagowtbt.github.io/portifolio/analogica_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tiagowtbt.github.io/portifolio/bh_2/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://tiagowtbt.github.io/portifolio/analogica_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tiagowtbt.github.io/portifolio/bh_2/</guid>
+      <guid>https://tiagowtbt.github.io/portifolio/analogica_6/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tiagowtbt.github.io/portifolio/adesivo_1/</link>
+      <link>https://tiagowtbt.github.io/portifolio/digital_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tiagowtbt.github.io/portifolio/adesivo_1/</guid>
+      <guid>https://tiagowtbt.github.io/portifolio/digital_6/</guid>
       <description></description>
     </item>
     
@@ -90,6 +81,60 @@
     
     <item>
       <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/analogica_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/analogica_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/digital_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/digital_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/digital_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/digital_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/bh_2/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/bh_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/adesivo_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/adesivo_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/digital_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/digital_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://tiagowtbt.github.io/portifolio/aranha_1/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
@@ -99,10 +144,64 @@
     
     <item>
       <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/adesivo_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/adesivo_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/digital_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/digital_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/analogica_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/analogica_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/digital_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/digital_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/bh_1/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/bh_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://tiagowtbt.github.io/portifolio/gato_4/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://tiagowtbt.github.io/portifolio/gato_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tiagowtbt.github.io/portifolio/analogica_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagowtbt.github.io/portifolio/analogica_2/</guid>
       <description></description>
     </item>
     
